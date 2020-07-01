@@ -54,11 +54,20 @@ section{
 footer p{
     text-align: center;
 }
-.client{
+.footer-part{
     text-align: center;
 }
-.msg-for-me{
+.contract{
     text-align: center;
+    width: 600px;
+    height: 80px;
+    margin-left: 350px;
     background-color: mediumvioletred;
-    padding: 2px 15px;
+    padding: 20px 10px;
+    margin-top: 50px;
+    border-radius: 5px;
+    color: white;
+}
+footer{
+    text-align: center;
 }
